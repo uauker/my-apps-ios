@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MyAppsViewController.h"
 
 @interface FirstViewController : UIViewController
+
+- (IBAction)touchMoreApp:(id)sender;
 
 @end

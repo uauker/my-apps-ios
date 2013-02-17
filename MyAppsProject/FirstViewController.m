@@ -26,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)touchMoreApp:(id)sender {
+    MyAppsViewController *apps = [[MyAppsViewController alloc] init];
+    [[self navigationController] pushViewController:apps animated:YES];
+}
+
 @end
