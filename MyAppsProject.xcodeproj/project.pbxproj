@@ -23,15 +23,15 @@
 		23CF786216D18D3D00890C69 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CF786116D18D3D00890C69 /* SecondViewController.m */; };
 		23CF786416D18D3D00890C69 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 23CF786316D18D3D00890C69 /* second.png */; };
 		23CF786616D18D3D00890C69 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 23CF786516D18D3D00890C69 /* second@2x.png */; };
-		23CF787716D18E1200890C69 /* com.uauker.apps.cinelandia in Resources */ = {isa = PBXBuildFile; fileRef = 23CF786E16D18E1200890C69 /* com.uauker.apps.cinelandia */; };
-		23CF787816D18E1200890C69 /* com.uauker.apps.transitobh in Resources */ = {isa = PBXBuildFile; fileRef = 23CF786F16D18E1200890C69 /* com.uauker.apps.transitobh */; };
-		23CF787916D18E1200890C69 /* com.uauker.apps.transitorio in Resources */ = {isa = PBXBuildFile; fileRef = 23CF787016D18E1200890C69 /* com.uauker.apps.transitorio */; };
-		23CF787A16D18E1200890C69 /* com.uauker.apps.transitosp in Resources */ = {isa = PBXBuildFile; fileRef = 23CF787116D18E1200890C69 /* com.uauker.apps.transitosp */; };
-		23CF787B16D18E1200890C69 /* MyAppCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CF787216D18E1200890C69 /* MyAppCell.xib */; };
-		23CF787C16D18E1200890C69 /* MyApps.json in Resources */ = {isa = PBXBuildFile; fileRef = 23CF787316D18E1200890C69 /* MyApps.json */; };
-		23CF787D16D18E1200890C69 /* MyAppsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CF787516D18E1200890C69 /* MyAppsViewController.m */; };
-		23CF787E16D18E1200890C69 /* MyAppsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CF787616D18E1200890C69 /* MyAppsViewController.xib */; };
 		23CF788016D18E4300890C69 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23CF787F16D18E4300890C69 /* QuartzCore.framework */; };
+		23CF788C16D18EE300890C69 /* com.uauker.apps.cinelandia in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788316D18EE300890C69 /* com.uauker.apps.cinelandia */; };
+		23CF788D16D18EE300890C69 /* com.uauker.apps.transitobh in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788416D18EE300890C69 /* com.uauker.apps.transitobh */; };
+		23CF788E16D18EE300890C69 /* com.uauker.apps.transitorio in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788516D18EE300890C69 /* com.uauker.apps.transitorio */; };
+		23CF788F16D18EE300890C69 /* com.uauker.apps.transitosp in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788616D18EE300890C69 /* com.uauker.apps.transitosp */; };
+		23CF789016D18EE300890C69 /* MyAppCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788716D18EE300890C69 /* MyAppCell.xib */; };
+		23CF789116D18EE300890C69 /* MyApps.json in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788816D18EE300890C69 /* MyApps.json */; };
+		23CF789216D18EE300890C69 /* MyAppsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CF788A16D18EE300890C69 /* MyAppsViewController.m */; };
+		23CF789316D18EE300890C69 /* MyAppsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788B16D18EE300890C69 /* MyAppsViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,16 +57,16 @@
 		23CF786116D18D3D00890C69 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		23CF786316D18D3D00890C69 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		23CF786516D18D3D00890C69 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		23CF786E16D18E1200890C69 /* com.uauker.apps.cinelandia */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.cinelandia; sourceTree = "<group>"; };
-		23CF786F16D18E1200890C69 /* com.uauker.apps.transitobh */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitobh; sourceTree = "<group>"; };
-		23CF787016D18E1200890C69 /* com.uauker.apps.transitorio */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitorio; sourceTree = "<group>"; };
-		23CF787116D18E1200890C69 /* com.uauker.apps.transitosp */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitosp; sourceTree = "<group>"; };
-		23CF787216D18E1200890C69 /* MyAppCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyAppCell.xib; sourceTree = "<group>"; };
-		23CF787316D18E1200890C69 /* MyApps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MyApps.json; sourceTree = "<group>"; };
-		23CF787416D18E1200890C69 /* MyAppsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAppsViewController.h; sourceTree = "<group>"; };
-		23CF787516D18E1200890C69 /* MyAppsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAppsViewController.m; sourceTree = "<group>"; };
-		23CF787616D18E1200890C69 /* MyAppsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyAppsViewController.xib; sourceTree = "<group>"; };
 		23CF787F16D18E4300890C69 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		23CF788316D18EE300890C69 /* com.uauker.apps.cinelandia */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.cinelandia; sourceTree = "<group>"; };
+		23CF788416D18EE300890C69 /* com.uauker.apps.transitobh */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitobh; sourceTree = "<group>"; };
+		23CF788516D18EE300890C69 /* com.uauker.apps.transitorio */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitorio; sourceTree = "<group>"; };
+		23CF788616D18EE300890C69 /* com.uauker.apps.transitosp */ = {isa = PBXFileReference; lastKnownFileType = file; path = com.uauker.apps.transitosp; sourceTree = "<group>"; };
+		23CF788716D18EE300890C69 /* MyAppCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyAppCell.xib; sourceTree = "<group>"; };
+		23CF788816D18EE300890C69 /* MyApps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MyApps.json; sourceTree = "<group>"; };
+		23CF788916D18EE300890C69 /* MyAppsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAppsViewController.h; sourceTree = "<group>"; };
+		23CF788A16D18EE300890C69 /* MyAppsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAppsViewController.m; sourceTree = "<group>"; };
+		23CF788B16D18EE300890C69 /* MyAppsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyAppsViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				23CF784416D18D3D00890C69 /* MyAppsProject */,
-				23CF786C16D18DE200890C69 /* MyApps */,
+				23CF788116D18EE300890C69 /* MyApps */,
 				23CF783D16D18D3D00890C69 /* Frameworks */,
 				23CF783C16D18D3D00890C69 /* Products */,
 			);
@@ -146,27 +146,26 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		23CF786C16D18DE200890C69 /* MyApps */ = {
+		23CF788116D18EE300890C69 /* MyApps */ = {
 			isa = PBXGroup;
 			children = (
-				23CF786D16D18E1200890C69 /* images */,
-				23CF787216D18E1200890C69 /* MyAppCell.xib */,
-				23CF787316D18E1200890C69 /* MyApps.json */,
-				23CF787416D18E1200890C69 /* MyAppsViewController.h */,
-				23CF787516D18E1200890C69 /* MyAppsViewController.m */,
-				23CF787616D18E1200890C69 /* MyAppsViewController.xib */,
+				23CF788216D18EE300890C69 /* images */,
+				23CF788716D18EE300890C69 /* MyAppCell.xib */,
+				23CF788816D18EE300890C69 /* MyApps.json */,
+				23CF788916D18EE300890C69 /* MyAppsViewController.h */,
+				23CF788A16D18EE300890C69 /* MyAppsViewController.m */,
+				23CF788B16D18EE300890C69 /* MyAppsViewController.xib */,
 			);
-			name = MyApps;
-			path = MyAppsProject/MyApps;
-			sourceTree = "<group>";
+			path = MyApps;
+			sourceTree = SOURCE_ROOT;
 		};
-		23CF786D16D18E1200890C69 /* images */ = {
+		23CF788216D18EE300890C69 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				23CF786E16D18E1200890C69 /* com.uauker.apps.cinelandia */,
-				23CF786F16D18E1200890C69 /* com.uauker.apps.transitobh */,
-				23CF787016D18E1200890C69 /* com.uauker.apps.transitorio */,
-				23CF787116D18E1200890C69 /* com.uauker.apps.transitosp */,
+				23CF788316D18EE300890C69 /* com.uauker.apps.cinelandia */,
+				23CF788416D18EE300890C69 /* com.uauker.apps.transitobh */,
+				23CF788516D18EE300890C69 /* com.uauker.apps.transitorio */,
+				23CF788616D18EE300890C69 /* com.uauker.apps.transitosp */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -231,13 +230,13 @@
 				23CF785F16D18D3D00890C69 /* first@2x.png in Resources */,
 				23CF786416D18D3D00890C69 /* second.png in Resources */,
 				23CF786616D18D3D00890C69 /* second@2x.png in Resources */,
-				23CF787716D18E1200890C69 /* com.uauker.apps.cinelandia in Resources */,
-				23CF787816D18E1200890C69 /* com.uauker.apps.transitobh in Resources */,
-				23CF787916D18E1200890C69 /* com.uauker.apps.transitorio in Resources */,
-				23CF787A16D18E1200890C69 /* com.uauker.apps.transitosp in Resources */,
-				23CF787B16D18E1200890C69 /* MyAppCell.xib in Resources */,
-				23CF787C16D18E1200890C69 /* MyApps.json in Resources */,
-				23CF787E16D18E1200890C69 /* MyAppsViewController.xib in Resources */,
+				23CF788C16D18EE300890C69 /* com.uauker.apps.cinelandia in Resources */,
+				23CF788D16D18EE300890C69 /* com.uauker.apps.transitobh in Resources */,
+				23CF788E16D18EE300890C69 /* com.uauker.apps.transitorio in Resources */,
+				23CF788F16D18EE300890C69 /* com.uauker.apps.transitosp in Resources */,
+				23CF789016D18EE300890C69 /* MyAppCell.xib in Resources */,
+				23CF789116D18EE300890C69 /* MyApps.json in Resources */,
+				23CF789316D18EE300890C69 /* MyAppsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +251,7 @@
 				23CF784F16D18D3D00890C69 /* AppDelegate.m in Sources */,
 				23CF785B16D18D3D00890C69 /* FirstViewController.m in Sources */,
 				23CF786216D18D3D00890C69 /* SecondViewController.m in Sources */,
-				23CF787D16D18E1200890C69 /* MyAppsViewController.m in Sources */,
+				23CF789216D18EE300890C69 /* MyAppsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
