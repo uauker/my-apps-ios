@@ -32,6 +32,9 @@
 		23CF789116D18EE300890C69 /* MyApps.json in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788816D18EE300890C69 /* MyApps.json */; };
 		23CF789216D18EE300890C69 /* MyAppsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CF788A16D18EE300890C69 /* MyAppsViewController.m */; };
 		23CF789316D18EE300890C69 /* MyAppsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CF788B16D18EE300890C69 /* MyAppsViewController.xib */; };
+		23CF789A16D1902900890C69 /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = 23CF789616D1902900890C69 /* CHANGELOG.md */; };
+		23CF789B16D1902900890C69 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CF789816D1902900890C69 /* JSONKit.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc -w"; }; };
+		23CF789C16D1902900890C69 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 23CF789916D1902900890C69 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +70,10 @@
 		23CF788916D18EE300890C69 /* MyAppsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAppsViewController.h; sourceTree = "<group>"; };
 		23CF788A16D18EE300890C69 /* MyAppsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAppsViewController.m; sourceTree = "<group>"; };
 		23CF788B16D18EE300890C69 /* MyAppsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyAppsViewController.xib; sourceTree = "<group>"; };
+		23CF789616D1902900890C69 /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGELOG.md; sourceTree = "<group>"; };
+		23CF789716D1902900890C69 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
+		23CF789816D1902900890C69 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
+		23CF789916D1902900890C69 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +97,7 @@
 				23CF784416D18D3D00890C69 /* MyAppsProject */,
 				23CF788116D18EE300890C69 /* MyApps */,
 				23CF783D16D18D3D00890C69 /* Frameworks */,
+				23CF789416D1902900890C69 /* Libraries */,
 				23CF783C16D18D3D00890C69 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -170,6 +178,25 @@
 			path = images;
 			sourceTree = "<group>";
 		};
+		23CF789416D1902900890C69 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				23CF789516D1902900890C69 /* JSONKit */,
+			);
+			path = Libraries;
+			sourceTree = "<group>";
+		};
+		23CF789516D1902900890C69 /* JSONKit */ = {
+			isa = PBXGroup;
+			children = (
+				23CF789616D1902900890C69 /* CHANGELOG.md */,
+				23CF789716D1902900890C69 /* JSONKit.h */,
+				23CF789816D1902900890C69 /* JSONKit.m */,
+				23CF789916D1902900890C69 /* README.md */,
+			);
+			path = JSONKit;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -237,6 +264,8 @@
 				23CF789016D18EE300890C69 /* MyAppCell.xib in Resources */,
 				23CF789116D18EE300890C69 /* MyApps.json in Resources */,
 				23CF789316D18EE300890C69 /* MyAppsViewController.xib in Resources */,
+				23CF789A16D1902900890C69 /* CHANGELOG.md in Resources */,
+				23CF789C16D1902900890C69 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +281,7 @@
 				23CF785B16D18D3D00890C69 /* FirstViewController.m in Sources */,
 				23CF786216D18D3D00890C69 /* SecondViewController.m in Sources */,
 				23CF789216D18EE300890C69 /* MyAppsViewController.m in Sources */,
+				23CF789B16D1902900890C69 /* JSONKit.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
