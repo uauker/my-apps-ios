@@ -1,0 +1,28 @@
+{
+    "apps": [
+             {
+             "name": "Cinelândia",
+             "category": "Utilidades",
+             "bundle": "com.uauker.apps.cinelandia",
+             "url": "https://itunes.apple.com/br/app/cinelandia/id593111986?ls=1&mt=8"
+             },
+             {
+             "name": "Trânsito Belo Horizonte",
+             "category": "Utilidades",
+             "bundle": "com.uauker.apps.transitobh",
+             "url": "https://itunes.apple.com/us/app/transito-belo-horizonte/id563088936?ls=1&mt=8"
+             },
+             {
+             "name": "Trânsito Rio",
+             "category": "Utilidades",
+             "bundle": "com.uauker.apps.transitorio",
+             "url": "https://itunes.apple.com/br/app/transito-rio/id532744943?ls=1&mt=8"
+             },
+             {
+             "name": "Trânsito SP",
+             "category": "Utilidades",
+             "bundle": "com.uauker.apps.transitosp",
+             "url": "https://itunes.apple.com/us/app/transito-sp/id541411597?ls=1&mt=8"
+             }
+             ]
+}
